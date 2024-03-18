@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.sidebar {
+    width: 72px;
+}
+
+nav li{
+    height: 72px;
+}
+
+.h-5 {
+    height: 5%;
+}
+
+.h-95 {
+    height: 95%;
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, .8) !important;
+    font-size: 1.2rem;
+}
+
+.toast {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+}
+
+.fade {
+    transition: opacity 0.5s linear !important;
+}

@@ -1,0 +1,26 @@
+/*------------------------------------
+- COLOR primary
+------------------------------------*/
+
+.bg-primary {
+    background-color: #15172e !important;
+}
+
+.bg-secondary {
+    background-color: #1f2348 !important;
+}
+
+li.bg-primary:hover, li.bg-primary:focus, li.bg-primary.active {
+    background-color: #002b6c !important;
+}
+
+.text-primary {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.text-secondary {
+    color: rgba(255, 255, 255, .5) !important;
+}
+
+.border-secondary {
+}
