@@ -1,9 +1,9 @@
 # tci-tech-test
 
-Crie o banco de dados com o seguinte código:
+Crie o banco de dados (MySQL) com o seguinte código:
 
 ```
-create databasse contacts_app;
+create database contacts_app;
        
 use contacts_app;
 
