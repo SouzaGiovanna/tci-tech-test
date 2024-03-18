@@ -19,6 +19,11 @@ create table contacts(
     ,primary key(id)
 );
 ```
+
+Instale as dependências do projeto
+```
+composer update
+```
  
 Inicie o backend via terminal com o código: 
 ``` 
