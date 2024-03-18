@@ -11,7 +11,7 @@ class MysqlProvider implements IDatabase {
     private $host = 'localhost';
     private $db_name = 'contacts_test';
     private $username = 'root';
-    private $password = 'root';
+    private $password = '';
 
     public PDO $connection;
 
